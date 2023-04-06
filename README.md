@@ -2,7 +2,7 @@
 
 ## Install
 
-go build cmd/spaceship/main.go -o spaceship
+go build -o spaceship cmd/spaceship/main.go
 
 ## How To Play
 
